@@ -4,6 +4,16 @@
 
 [GitHub repository](https://github.com/sourcegraph/themes)
 
+## Usage
+
+This theme is not yet published. To install it manually, clone this repository and run:
+
+```
+./dev.sh attach
+```
+
+Then reload VS Code and you should see the Sourcegraph Theme in the extensions list. You can now select the "Sourcegraph Dark" theme in the list that appears when you run the `Preferences: Color Theme` action.
+
 ## Screenshot
 
 ![screenshot](https://cloud.githubusercontent.com/assets/1976/26753377/b8c24554-4819-11e7-9fae-299e4d183820.png)
