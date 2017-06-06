@@ -6,7 +6,11 @@
 
 ## Usage
 
-This theme is not yet published. To install it manually, clone this repository and run:
+In VS Code, run `ext install sourcegraph.vscode-sourcegraph-theme` or visit [Sourcegraph Theme on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sourcegraph.vscode-sourcegraph-theme).
+
+## Development
+
+To install it manually, clone this repository and run:
 
 ```
 ./dev.sh attach
