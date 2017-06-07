@@ -86,7 +86,20 @@
 		"widget.shadow": "#070A0D",
 		"launcher.activeBackground": "#31445E",
 		"launcher.navBackground": "#233043",
-		"launcher.navForeground": "#C9D4E3"
+		"launcher.navForeground": "#C9D4E3",
+		"modal.background": "#E4EAF1",
+		"modal.foreground": "#000000",
+		"modal.titleForeground": "#5D7EAC",
+		"modal.panelBackground": "#FFFFFF",
+		"modal.panelSecondaryForeground": "#587FAE",
+		"modal.panelBorder": "#DDDDDD",
+		"modal.buttonDisabledBackground": "#DDDDDD",
+		"modal.buttonDisabledForeground": "#999999",
+		"modal.buttonErrorBackground": "#FFAAAA",
+		"modal.buttonErrorForeground": "#000000",
+		"modal.inputBackground": "#FFFFFF",
+		"modal.inputForeground": "#000000",
+		"modal.inputBorder": ""
 	},
 	"tokenColors": [
 		{
