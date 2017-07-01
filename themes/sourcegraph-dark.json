@@ -99,9 +99,7 @@
 		"modal.buttonErrorForeground": "#000000",
 		"modal.inputBackground": "#FFFFFF",
 		"modal.inputForeground": "#000000",
-		"modal.inputBorder": "",
-		"launcher.nav.subtleButtonBackground": "#3E5779",
-		"launcher.nav.subtleButtonForeground": "#93A9C8"
+		"modal.inputBorder": ""
 	},
 	"tokenColors": [
 		{
