@@ -57,7 +57,7 @@
 		"peekViewResult.fileForeground": "#C9D4E3",
 		"peekViewResult.lineForeground": "#C9D4E3",
 		"peekViewResult.matchHighlightBackground": "#329af040",
-		"peekViewResult.selectionBackground": "#329af0",
+		"peekViewResult.selectionBackground": "#1862AB",
 		"peekViewResult.selectionForeground": "#C9D4E3",
 		"peekViewTitle.background": "#233043",
 		"peekViewTitleDescription.foreground": "#93A9C8",
@@ -99,7 +99,9 @@
 		"modal.buttonErrorForeground": "#000000",
 		"modal.inputBackground": "#FFFFFF",
 		"modal.inputForeground": "#000000",
-		"modal.inputBorder": ""
+		"modal.inputBorder": "",
+		"launcher.nav.subtleButtonBackground": "#3E5779",
+		"launcher.nav.subtleButtonForeground": "#93A9C8"
 	},
 	"tokenColors": [
 		{
