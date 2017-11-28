@@ -1,12 +1,8 @@
-# Sourcegraph color themes
+# Sourcegraph color theme
 
-(Work in progress, not yet released.) This is the default color theme on [Sourcegraph.com](https://sourcegraph.com), packaged as a theme for the [Visual Studio Code](https://code.visualstudio.com) editor.
+[![vs marketplace](https://img.shields.io/vscode-marketplace/v/sourcegraph.vscode-sourcegraph-theme.svg?label=vs%20marketplace)](https://marketplace.visualstudio.com/items?itemName=sourcegraph.vscode-sourcegraph-theme) [![downloads](https://img.shields.io/vscode-marketplace/d/sourcegraph.vscode-sourcegraph-theme.svg)](https://marketplace.visualstudio.com/items?itemName=sourcegraph.vscode-sourcegraph-theme) [![rating](https://img.shields.io/vscode-marketplace/r/sourcegraph.vscode-sourcegraph-theme.svg)](https://marketplace.visualstudio.com/items?itemName=sourcegraph.vscode-sourcegraph-theme)
 
-[GitHub repository](https://github.com/sourcegraph/themes)
-
-## Usage
-
-In VS Code, run `ext install sourcegraph.vscode-sourcegraph-theme` or visit [Sourcegraph Theme on the VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=sourcegraph.vscode-sourcegraph-theme).
+![Screenshot](./screenshot.png)
 
 ## Development
 
@@ -17,7 +13,3 @@ To install it manually, clone this repository and run:
 ```
 
 Then reload VS Code and you should see the Sourcegraph Theme in the extensions list. You can now select the "Sourcegraph Dark" theme in the list that appears when you run the `Preferences: Color Theme` action.
-
-## Screenshot
-
-![screenshot](https://cloud.githubusercontent.com/assets/1976/26753377/b8c24554-4819-11e7-9fae-299e4d183820.png)
