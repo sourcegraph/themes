@@ -90,7 +90,7 @@
 		"editorInfo.foreground": "#1c7cd6",
 		"editorGutter.modifiedBackground": "#ffe066",
 		"editorGutter.addedBackground": "#8ce99a",
-		"editorGutter.deletedBackground": "#",
+		// "editorGutter.deletedBackground": "#",
 		"diffEditor.insertedTextBackground": "#37b24d25",
 		"diffEditor.removedTextBackground": "#f03e3e25",
 		"editorWidget.background": "#1D2535",
