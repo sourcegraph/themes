@@ -2,7 +2,7 @@
   "name": "vscode-sourcegraph-theme",
   "displayName": "Sourcegraph Theme",
   "description": "Sourcegraph's theme for Visual Studio Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "sourcegraph",
   "bugs": {
     "url": "https://github.com/sourcegraph/themes/issues"
