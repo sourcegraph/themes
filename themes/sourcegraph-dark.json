@@ -154,9 +154,9 @@
 		"terminal.ansiYellow": "#fcc419",
 		"welcomePage.buttonBackground": "#1D2535",
 		"welcomePage.buttonHoverBackground": "#151C28",
-		"gitDecoration.modifiedResourceForeground": "#fff3bf",
-		"gitDecoration.deletedResourceForeground": "#ffe3e3",
-		"gitDecoration.untrackedResourceForeground": "#d3f9d8",
+		"gitDecoration.modifiedResourceForeground": "#ffec99",
+		"gitDecoration.deletedResourceForeground": "#ffc9c9",
+		"gitDecoration.untrackedResourceForeground": "#b2f2bb",
 		"gitDecoration.ignoredResourceForeground": "#F2F4F875"
 	},
 	"tokenColors": [
